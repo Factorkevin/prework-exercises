@@ -5,7 +5,8 @@
 puts kobe = "24"
 puts jordan = "23"
 puts rose = "1"
-puts "kobe" + "jordan" + "rose"
+puts 24 + 23 + 1
+
 
 # QUESTION 2
 # If you run the code below, it will crash due to invalid variable names. 
